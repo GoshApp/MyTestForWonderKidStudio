@@ -1,9 +1,10 @@
 ###MyTestForWonderKidStudio
-Cлайд 1
+#Cлайд 1
 # MainActivity для отображения списка пользователей.
-Программа с отображением списка пользователей, а также удалением, добавлением и редактированием их.
+
 ![genymotion for personal use - samsung galaxy s4 - 4 2 2 - api 17 - 1080x1920 1080x1920 480dpi - 192 168 171 101 2017-03-17 18 24 34](https://cloud.githubusercontent.com/assets/24555227/24050236/454dcb50-0b3f-11e7-9372-4313deaa14ba.png)
- Cлайд 2
+Программа с отображением списка пользователей, а также удалением, добавлением и редактированием их.
+#Cлайд 2
 # Активити для редактирование пользователя.
 ![genymotion for personal use - samsung galaxy s4 - 4 2 2 - api 17 - 1080x1920 1080x1920 480dpi - 192 168 171 101 2017-03-17 18 25 42](https://cloud.githubusercontent.com/assets/24555227/24050356/a301c9c2-0b3f-11e7-9aa8-5483fb700aca.png)
 Cлайд 3

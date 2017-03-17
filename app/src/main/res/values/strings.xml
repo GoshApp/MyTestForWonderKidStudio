@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTestForWonderKidStudio</string>
+    <string name="action_settings">Добавить</string>
+    <string name="title_activity_user">UserActivity</string>
+</resources>
